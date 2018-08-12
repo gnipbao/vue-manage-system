@@ -73,7 +73,7 @@
 
 ## 本地开发 ##
 
-	// 开启服务器，浏览器访问 http://localhost:8080
+	// 开启服务器，浏览器访问 http://localhost:3005
 	npm run dev
 
 ## 构建生产 ##
